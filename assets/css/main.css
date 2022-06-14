@@ -1345,7 +1345,7 @@ input, select, textarea {
 
 			#header nav ul li {
 				padding-left: 0;
-				width: 50%;
+				width: 100%;
 				border-left: solid 1px #ffffff;
 			}
 
